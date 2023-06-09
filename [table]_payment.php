@@ -17,8 +17,8 @@ require_once dirname(__FILE__).'/omise-php/lib/Omise.php';
 define('OMISE_API_VERSION', '2015-11-17');
 // define('OMISE_PUBLIC_KEY', 'PUBLIC_KEY');
 // define('OMISE_SECRET_KEY', 'SECRET_KEY');
-define('OMISE_PUBLIC_KEY', 'pkey_test_5vt2n0f3ln1h9uzrxa1'); // <----Enter Public Key Here
-define('OMISE_SECRET_KEY', 'skey_test_5vt20u8uav6ds1r3zqx'); // <----Enter Secret Key Here
+define('OMISE_PUBLIC_KEY', '_________'); // <----Enter Public Key Here instead of _________
+define('OMISE_SECRET_KEY', '_________'); // <----Enter Secret Key Here instead of _________
 
 $charge = OmiseCharge::create(array(
   'amount' => $price,
