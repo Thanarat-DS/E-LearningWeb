@@ -9,3 +9,4 @@ This project is in the <b>database system concepts</b> course of kmitl universit
   4. Edit the <b>[table]_payment.php</b> to activate the payment system by enter the public key and secret key instead of underscores at lines 20-21.
 
 Your own public key and secret key can be found on your dashboard at <a href="https://www.omise.co/">omise</a>
+
