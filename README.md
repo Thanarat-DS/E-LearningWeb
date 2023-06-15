@@ -1,5 +1,5 @@
 # E-Learning
-This project is in the <b>database system concepts</b> course of kmitl university.. <br></br>
+This project is in the <b>database system concepts</b> course.. <br></br>
 <b>Note that since it's just a project in one subject at university, it's difficult to implement every function.</b>
 
 # Installation
