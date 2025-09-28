@@ -1,4 +1,4 @@
-# E-Learning
+# E-Learning (Project from KMITL University)
 This project is in the <b>database system concepts</b> course.. <br></br>
 <b>Note that since it's just a project in one subject at university, it's difficult to implement every function.</b>
 
@@ -9,8 +9,6 @@ This project is in the <b>database system concepts</b> course.. <br></br>
   4. Edit the <b>[table]_payment.php</b> to activate the payment system by enter the public key and secret key instead of underscores at lines 20-21.
 
 Your own public key and secret key can be found on your dashboard at <a href="https://www.omise.co/">omise</a>
-
-# E-Learning Website (Project from KMITL University)
 
 ## 🧰 Tech Stack
 
